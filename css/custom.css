@@ -1,0 +1,36 @@
+.nav-wrapper .brand-logo i{
+    font-size: 3em;
+}
+
+.lets-connect{
+    display: flex;
+    
+}
+
+.lets-connect li{
+    margin: 0 20px 0 0;
+}
+
+.lets-connect li img {
+    width: 32px;
+}
+
+.list-pad {
+    margin: 0 .4em;
+}
+
+.heroImage {
+    width: 50%;
+}
+
+#bioSection img{
+   width: 120px;
+}
+
+#mediumArticles .card {
+    height: 100%;
+}
+
+#heroArticle p {
+    margin: 20px 40px;
+}
